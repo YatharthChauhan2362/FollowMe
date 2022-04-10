@@ -1,8 +1,9 @@
 # FollowMe
 
-We can connect to each other and stay in touch on that platforms.
+# We can connect to each other and stay in touch on that platforms.
 
-Fiverr (Design Your Own Logo):
+# Fiverr (Design Your Own Logo):
+
 https://www.fiverr.com/yatharth2362
 
 LinkedIn:
